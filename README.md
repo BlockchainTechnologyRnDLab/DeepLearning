@@ -2,7 +2,7 @@
 
 ### 1부 딥러닝의 기초
 
-1. 딥러닝이란 무엇인가?
+1. [딥러닝이란 무엇인가?](https://github.com/BlockchainTechnologyRnDLab/DeepLearning/blob/main/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%B4%EB%9E%80.pdf)
 2. 시작하기 전에: 신경망의 수학적 구성 요소
 3. 신경망 시작하기
 4. 머신 러닝의 기본 요소
